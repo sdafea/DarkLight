@@ -1,0 +1,43 @@
+{
+	"info": [{
+			"id": 1,
+			"itemInfo": {"id":1,"num":10},
+			"priceType": 1,
+			"price": 10,
+			"name": "小瓶红药",
+			"tips": "回血10"
+		},
+		{
+			"id": 2,
+			"itemInfo": {"id":2,"num":10},
+			"priceType": 1,
+			"price": 15,
+			"name": "大瓶红药",
+			"tips": "回血30"
+		},
+		{
+			"id": 3,
+			"itemInfo": {"id":3,"num":10},
+			"priceType": 1,
+			"price": 10,
+			"name": "小瓶蓝药",
+			"tips": "回蓝10"
+		},
+		{
+			"id": 5,
+			"itemInfo": {"id":5,"num":1},
+			"priceType": 2,
+			"price": 100,
+			"name": "初级法杖",
+			"tips": "加攻击10"
+		},
+		{
+			"id": 6,
+			"itemInfo": {"id":6,"num":1},
+			"priceType": 2,
+			"price": 100,
+			"name": "初级剑",
+			"tips": "加攻击10"
+		}
+	]
+}

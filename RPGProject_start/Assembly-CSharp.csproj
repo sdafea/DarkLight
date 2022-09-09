@@ -213,6 +213,7 @@
     <Compile Include="Assets\Scripts\Custom\MovieCamera.cs" />
     <Compile Include="Assets\Scripts\Custom\PlayCamera.cs" />
     <Compile Include="Assets\Scripts\Custom\Tags.cs" />
+    <Compile Include="Assets\Scripts\MovieCamera.cs" />
     <Compile Include="Assets\Scripts\Npc\BarNpc.cs" />
     <Compile Include="Assets\Scripts\Npc\PotionNpc.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerDir.cs" />
