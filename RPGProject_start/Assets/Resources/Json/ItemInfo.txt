@@ -1,0 +1,57 @@
+{
+	"info": [{
+			"id": 1,
+			"name": "小瓶红药",
+			"icon": "1",
+			"type": 1,
+			"price": 10,
+			"tips": "小型回血药品",
+			"equipType":0
+		},
+		{
+			"id": 2,
+			"name": "大瓶红药",
+			"icon": "2",
+			"type": 1,
+			"price": 15,
+			"tips": "大型回血药品",
+			"equipType":0
+		},
+		{
+			"id": 3,
+			"name": "小瓶蓝药",
+			"icon": "3",
+			"type": 1,
+			"price": 10,
+			"tips": "小型回蓝药品",
+			"equipType":0
+		},
+		{
+			"id": 4,
+			"name": "大瓶蓝药",
+			"icon": "4",
+			"type": 1,
+			"price": 15,
+			"tips": "大型回蓝药品",
+			"equipType":0
+		},
+		{
+			"id": 5,
+			"name": "初级法杖",
+			"icon": "5",
+			"type": 2,
+			"price": 100,
+			"tips": "增加攻击力",
+			"equipType":3
+		},
+		{
+			"id": 6,
+			"name": "初级剑",
+			"icon": "6",
+			"type": 2,
+			"price": 100,
+			"tips": "增加攻击力",
+			"equipType":3
+		}
+	]
+}
